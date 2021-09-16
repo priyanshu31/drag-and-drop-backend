@@ -5,7 +5,7 @@ const dataFormat = new mongoose.Schema({
         type: String
     },  
     value: {
-        type: String
+        type: Number
     },    
 });
 
